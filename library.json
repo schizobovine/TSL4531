@@ -1,0 +1,20 @@
+{
+  "name": "TSL4531 Library",
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms" : "*",
+  "keywords": "tsl4531 tsl45315 lux light sensor als",
+  "description": "Interface with the TSL4531x sensors from ams",
+  "authors": [
+    {
+      "name": "Sean Caulfield",
+      "email": "sean@yak.net",
+      "url": "https://github.com/schizobovine",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schizobovine/TSL4531"
+  }
+}
